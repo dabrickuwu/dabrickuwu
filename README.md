@@ -1,16 +1,30 @@
-## Hi there 👋
+# I'm dabrickuwu 👋
 
-<!--
-**dabrickuwu/dabrickuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Powered by curiosity (and too much coffee).
 
-Here are some ideas to get you started:
+Building responsive web interfaces with TypeScript & React. Curious about design systems. Based in Singapore.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### A little about me
+
+- learning Next.js the slow way
+- keeps notes about design systems that will never be published
+- happy to pair on open-source stuff
+- probably overthinking a database schema right now
+
+<p align="center">
+  <img width="99%" src="https://github-profile-trophy.vercel.app/?username=dabrickuwu&theme=blue-green&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabrickuwu&layout=compact&langs_count=8&hide_border=true&theme=blue-green" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dabrickuwu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=blue-green" alt="dabrickuwu GitHub stats" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=dabrickuwu&hide_border=true&theme=react" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-e3b341?style=for-the-badge&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Vite-e3b341?style=for-the-badge&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/TypeScript-e3b341?style=for-the-badge&logoColor=white" alt="TypeScript" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/dabrickuwu?label=Followers&style=social" alt="Followers" />
+  <a href="https://github.com/dabrickuwu"><img src="https://img.shields.io/badge/GitHub-@dabrickuwu-e3b341?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center"><i>Based in Singapore. Always happy to talk shop.</i></p>
